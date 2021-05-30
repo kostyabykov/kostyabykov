@@ -17,8 +17,6 @@
 ### Projects:
 * [Определение стоимости автомобилей](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
  
-....
-![](https://media.giphy.com/media/X5wqqXmtbttG121WMy/giphy.gif | width="100" height="100")
 
-<a href="url"><img src="https://media.giphy.com/media/X5wqqXmtbttG121WMy/giphy.gif" align="left" height="100" width="100" ></a>
+<a href="url"><img src="https://media.giphy.com/media/X5wqqXmtbttG121WMy/giphy.gif" align="left" height="300" width="300" ></a>
 
