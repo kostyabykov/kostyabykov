@@ -15,7 +15,7 @@
 
 
 ### Projects:
-* [Предсказание стоимости автомобиль](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
+* [Определение стоимости автомобилей](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
  
 
 
