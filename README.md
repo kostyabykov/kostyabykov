@@ -8,7 +8,14 @@
 * Прийти к выводу, что предела совершенствования в анализе данных нет, а методы машинного обучения могут сильно помочь бизнесу.
 
 
-Skills: PYTHON (Pandas, Numpy, Matplotlib, Plotly, Sklearn) / SQL / EXCEL
+### Skills: 
+* PYTHON (Pandas, Numpy, Matplotlib, Plotly, Sklearn) 
+* SQL 
+* EXCEL
+
+
+### Projects:
+* [Предсказание стоимости автомобиль](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
  
 
 
