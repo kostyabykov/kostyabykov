@@ -12,6 +12,7 @@
 * PYTHON (Pandas, Numpy, Matplotlib, Seaborn, Sklearn ...) 
 * MS SQL 
 * EXCEL
+* Изучал Hadoop и Git, но на практике не сталкивался
 
 
 ### Projects:
