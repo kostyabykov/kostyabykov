@@ -10,7 +10,7 @@
 
 ### Skills: 
 * PYTHON (Pandas, Numpy, Matplotlib, Seaborn, Sklearn ...) 
-* SQL 
+* MS SQL 
 * EXCEL
 
 
