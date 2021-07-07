@@ -15,10 +15,11 @@
 
 
 ### Projects:
-* [Определение стоимости автомобилей](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
-* [Классификация токсичных комментариев](https://github.com/kostyabykov/DS-projects/tree/main/toxic_comments_classification)
-* [Предсказание строимости дома (Kaggle)](https://github.com/kostyabykov/DS-projects/tree/main/house_price_prediction)
-* [Определение возраста челока по фото](https://github.com/kostyabykov/DS-projects/tree/main/CV)
+* [Определение стоимости автомобилей (Задача регрессии)](https://github.com/kostyabykov/DS-projects/tree/main/Car_price_prediction)
+* [Классификация токсичных комментариев (NLP)](https://github.com/kostyabykov/DS-projects/tree/main/toxic_comments_classification)
+* [Предсказание строимости дома (Kaggle, задача регрессии)](https://github.com/kostyabykov/DS-projects/tree/main/house_price_prediction)
+* [Определение возраста челока по фото (CV)](https://github.com/kostyabykov/DS-projects/tree/main/CV)
+* [Прогнозирование заказов такси (Time-series)](https://github.com/kostyabykov/DS-projects/tree/main/Taxi_prediction)
  
 
 <a href="url"><img src="https://media.giphy.com/media/X5wqqXmtbttG121WMy/giphy.gif" align="left" height="200" width="200" ></a>
