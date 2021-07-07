@@ -9,7 +9,7 @@
 
 
 ### Skills: 
-* PYTHON (Pandas, Numpy, Matplotlib, Plotly, Seaborn, Sklearn, Scipy, Catboost, LightGBM) 
+* PYTHON (Pandas, Numpy, Matplotlib, Seaborn, Sklearn ...) 
 * SQL 
 * EXCEL
 
