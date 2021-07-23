@@ -11,7 +11,6 @@
 ### Skills: 
 * PYTHON (Pandas, Numpy, Matplotlib, Seaborn, Sklearn, TensorFlow, PyTorch ...) 
 * MS SQL 
-* EXCEL
 * Изучал Hadoop и Git, но на практике не сталкивался
 
 
