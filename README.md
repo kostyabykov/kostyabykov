@@ -10,9 +10,9 @@
 
 ### Skills: 
 * PYTHON (Pandas, Numpy, Matplotlib, Seaborn, Sklearn, TensorFlow ...)
-* Классические алгоритмы ML 
+* Алгоритмы ML 
 * SQL 
-* Изучал Hadoop и Git, но на практике не сталкивался
+* Изучал Hadoop и Git, но на практике не применял
 
 
 ### Projects:
