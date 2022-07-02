@@ -18,7 +18,6 @@
 ### Projects:
 * [Парсер futbin.com (selenium) + скрипт создания и сбора данных в БД на heroku](https://github.com/kostyabykov/futbin_parser)
 * [Дипломная работа "Вызовы и возможности применения методов машинного обучения в банковских технологиях"](https://github.com/kostyabykov/diploma)
-* [Проект по сбору и анализу данных для FIFA](https://github.com/kostyabykov/futbin_parser)
 * [Прогнозирование оттока клиентов (Задача классификации)](https://github.com/kostyabykov/DS-projects/tree/main/churn_prediction)
 * [Классификация токсичных комментариев (NLP)](https://github.com/kostyabykov/DS-projects/tree/main/toxic_comments_classification)
 * [Прогнозирование заказов такси (Time-series)](https://github.com/kostyabykov/DS-projects/tree/main/Taxi_prediction)
