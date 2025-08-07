@@ -10,13 +10,14 @@
 ### Skills: 
 * PYTHON (Pandas, Numpy, Sklearn, BeautifulSoup, Selenium, ...)
 * Алгоритмы ML 
-* SQL 
-* Изучал Hadoop и Git
-* Опыт деплоя на Heroku
+* PostgreSQL, Clickhouse, Prometheus
+* Grafana, Superset
+* Есть опыт использования Airflow, Docker (опыт деплоя pet проектов)
 
 
 ### Projects:
-
+* [Cкрипт для сбора, агрегации и мониторинга аномально низких цен авиабилетов](https://github.com/kostyabykov/cheap_avia_tickets)
+* [Telegram бот для сбора статистики видео и shorts на YouTube](https://github.com/kostyabykov/youtube_stat_bot)
 * [Telegram бот для отправки запросов в ChatGPT через API OpenAI](https://github.com/kostyabykov/gpt_bot)
 * [Парсер futbin.com (selenium) + скрипт создания и сбора данных в БД на heroku](https://github.com/kostyabykov/futbin_parser)
 * [Дипломная работа "Вызовы и возможности применения методов машинного обучения в банковских технологиях"](https://github.com/kostyabykov/diploma)
