@@ -16,6 +16,8 @@
 
 
 ### Projects:
+gpt_bot
+* [Telegram бот для отправки запросов в ChatGPT через API OpenAI](https://github.com/kostyabykov/gpt_bot)
 * [Парсер futbin.com (selenium) + скрипт создания и сбора данных в БД на heroku](https://github.com/kostyabykov/futbin_parser)
 * [Дипломная работа "Вызовы и возможности применения методов машинного обучения в банковских технологиях"](https://github.com/kostyabykov/diploma)
 * [Прогнозирование оттока клиентов (Задача классификации)](https://github.com/kostyabykov/DS-projects/tree/main/churn_prediction)
